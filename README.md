@@ -1,4 +1,7 @@
-# mevn-typescript
+# mevn-typescript FUll Stack Profect 
+
+##Backend Node - MongoDB - Typescript
+#Frontend Vue - Typescript - Tailwind
 
 ## Project setup
 ```
